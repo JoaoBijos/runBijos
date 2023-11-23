@@ -5,6 +5,11 @@ Run Bijos
 
 Link para video da gameplay: https://www.youtube.com/watch?v=SC9Fv-Gct6Q
 
+Imagens do jogo:
+![image](https://github.com/JoaoBijos/runBijosV.2.0/assets/61015838/930dc7a0-d796-4f84-9566-3ffd67c3ca97)
+![image](https://github.com/JoaoBijos/runBijosV.2.0/assets/61015838/7b3edec4-db04-4948-9d97-b1f884730c0f)
+
+
 ## Descrição
 
 Run Bijos é um emocionante jogo estilo "infinity run" criado na Unity, onde os jogadores enfrentam um desafio interminável, correndo por cenários dinâmicos enquanto tentam evitar obstáculos e coletar moedas para acumular pontos.
